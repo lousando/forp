@@ -1,0 +1,11 @@
+{
+  "name": "forp",
+  "version": "1.0.0",
+  "description": "A promise, from a fork",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Louis Sandoval",
+  "license": "MIT"
+}
